@@ -3,7 +3,7 @@
 lang: ru-RU
 title: Лабораторная работа №4
 author: |
-	Volchok Kristina \inst{1,3}
+	Волчок Кристина Александровна \inst{1,3}
 
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
