@@ -52,6 +52,14 @@ biblatexoptions:
   - autolang=other*
   - citestyle=gost-numeric
 
+## Pandoc-crossref LaTeX customization
+figureTitle: "Рис."
+tableTitle: "Таблица"
+listingTitle: "Листинг"
+lofTitle: "Список иллюстраций"
+lotTitle: "Список таблиц"
+lolTitle: "Листинги"
+
 ## Misc options
 indent: true
 header-includes:
